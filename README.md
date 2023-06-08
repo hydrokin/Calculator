@@ -10,7 +10,7 @@ The Calculator App is a simple command-line calculator that performs basic arith
 
 ### Running the Calculator App
 
-1. Run the command `python calculator.py` to start the calculator application.
+1. Run the command `calculator.py` to start the calculator application.
 2. Follow the on-screen prompts to perform calculations.
 3. Choose the desired operation by entering the corresponding number (1-4).
 4. Enter the first number and press Enter.
