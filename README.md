@@ -20,8 +20,3 @@ The Calculator App is a simple command-line calculator that performs basic arith
 8. To exit the calculator, choose option 5.
 
 **Note:** The numbers you enter can be integers or decimal numbers.
-
-## Example
-
-Here is an example interaction with the Calculator App:
-
